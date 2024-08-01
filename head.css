@@ -1,0 +1,17 @@
+p{ color: green; font-size: 30px; }
+body{background-color:red;}
+body{background-image: URL('bleach.jpg');
+background-position: 10px 30px;
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-size: 450px 450px;
+}
+ul{list-style-type: circle;
+list-style-position: inside;
+}
+ol{list-style-type: upper-roman;
+list-style-position: outside;
+list-style-image: url('bleach.jpg');
+}
+#menu{border:5px;}
+#footer{top:30px;}
